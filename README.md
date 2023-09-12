@@ -20,6 +20,19 @@
 
 ## Descrição
 
+Uma página que serve como imagem de capa/menu onde terá as opções de **"início"**, **"Novidades"** e **"Contatos"**, além de contar com a opção **"Ler Mais"** que será usada para um texto muito grande.
+
+
+Ao clicar em Início o usuário será direcionado para a capa/menu da página, onde estará o texto introdutivo sobre a página.
+
+ 
+
+Ao clicar em Novidades o usuário será direcionado para o que há de novo na página, por exemplo, em um site de notícias, as "novidades" seriam as novas notícias ou reportagens postadas.
+
+ 
+
+Ao clicar em Contatos o usuário será direcionado para a parte da página onde ele terá a opção de entrar em contato para tirar dúvidas ou fazer criticas construtivas.
+
 ## Introdução
 
 ## Funcionalidades
@@ -42,7 +55,20 @@
 
 ### Tecnologias utilizaveis
 
+Utilizamos o **HTML** para estruturar nossa página, incluindo texto e imagens. O **CSS** é responsável pelo design, como cores e layout. Juntos, eles tornam nossa página _funcional_ e _atraente_.
+
 ## Fontes consultadas 
+
+Foram usadas o [bootstrap](https://getbootstrap.com/) para a estrutura inicial do site e o [chat gpt](https://chat.openai.com/) para o melhoramento de textos e informações
+
+Também foi pedida a ajuda de nosso porfessor de programação web **_Leonardo rocha_**
+
+ 
+**links**:
+
+https://getbootstrap.com/docs/5.0/examples/cover/
+
+https://leonardorocha.eti.br/
 
 ## Autores
 
