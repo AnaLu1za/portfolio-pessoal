@@ -48,8 +48,8 @@
 
 ## Autores
 
-Danilo Felype Lima
+**_Danilo Felype Lima_**
 
-Samuel Camargo de Farias
+**_Samuel Camargo de Farias_**
 
-Leonardo Fernando Freire Gomes de Souza
+**_Leonardo Fernando Freire Gomes de Souza_**
