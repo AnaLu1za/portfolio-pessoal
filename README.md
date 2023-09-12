@@ -35,6 +35,28 @@ Ao clicar em Contatos o usuário será direcionado para a parte da página onde 
 
 ## Introdução
 
+![image info](img/capa.png)
+
+ 
+
+Parte inicial da página. Aqui é onde o usuário será direcionado caso selecione a opção "início" no topo da página.
+
+ 
+
+![video info](img/Novidades-video.gif)
+
+ 
+
+Parte das novidades do site. É onde ficará as coisas novas, como novas opções e atualizações da página/site.
+
+ 
+
+![video info](img/Contato-video.gif)
+
+ 
+
+Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com os Autores da página através do "Entre em Contato", para assim tirar duvidas ou fazer critícas construtivas.
+
 ## Funcionalidades
 
 ![novidade](img/bot%C3%A3o%20novidade.png)
