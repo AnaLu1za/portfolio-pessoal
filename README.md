@@ -24,8 +24,6 @@
 
 ## Funcionalidades
 
-### Início
-
 ![novidade](img/bot%C3%A3o%20novidade.png)
 
 **Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
