@@ -38,9 +38,9 @@
 
 **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
-**Bootstrap**: Redireciona o usuário para o site oficial do **[bootstrap]**(https://getbootstrap.com/)
+**Bootstrap**: Redireciona o usuário para o site oficial do [bootstrap](https://getbootstrap.com/)
 
-**@mdo**: Redireciona o usuário para a página no twitter do criador da página. **[@mdo]**(https://twitter.com/mdo)
+**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [@mdo](https://twitter.com/mdo)
 
 ### Tecnologias utilizaveis
 
