@@ -26,9 +26,15 @@
 
 ### Início
 
+![novidade](img/novidade.png)
+
 Novidades: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
 
+![contatos](img/contato.png)
+
 Contatos: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
+
+![ler-mais](img/lermais.png)
 
 Ler mais: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
