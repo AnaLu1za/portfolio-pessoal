@@ -28,19 +28,19 @@
 
 ![novidade](img/bot%C3%A3o%20novidade.png)
 
-**_Novidades_**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
+**Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
 
 ![contatos](img/bot%C3%A3o%20contato.png)
 
-**_Contatos_**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
+**Contatos**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
 
 ![ler-mais](img/bot%C3%A3o%20ler%20mais.png)
 
-**_Ler mais_**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
+**Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
-**_Bootstrap_**: Redireciona o usuário para o site oficial do [bootstrap](https://getbootstrap.com/)
+**Bootstrap**: Redireciona o usuário para o site oficial do [bootstrap](https://getbootstrap.com/)
 
-**_@mdo_**: Redireciona o usuário para a página no twitter do criador da página. [@mdo](https://twitter.com/mdo)
+**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [@mdo](https://twitter.com/mdo)
 
 ### Tecnologias utilizaveis
 
