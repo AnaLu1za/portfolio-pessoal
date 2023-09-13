@@ -59,15 +59,9 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
 ## Funcionalidades
 
-![novidade](img/bot%C3%A3o%20novidade.png)
-
 **Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
 
-![contatos](img/bot%C3%A3o%20contato.png)
-
 **Contatos**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
-
-![ler-mais](img/bot%C3%A3o%20ler%20mais.png)
 
 **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
