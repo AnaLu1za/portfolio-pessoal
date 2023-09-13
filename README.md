@@ -69,7 +69,7 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
 **@mdo**: Redireciona o usuário para a página no twitter do criador da página. [**@mdo**](https://twitter.com/mdo)
 
-### Tecnologias utilizaveis
+### **_Tecnologias utilizaveis_**
 
 Este site foi desenvolvido com a ajuda do **Visual Studio Code** para codificação, **HTML5** para marcação de conteúdo, **CSS3** para estilização, **Git** para controle de versão e **GitHub** para hospedagem do projeto.
 
