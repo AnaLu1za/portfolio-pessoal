@@ -71,7 +71,7 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
 ### Tecnologias utilizaveis
 
-Utilizamos o **HTML** para estruturar nossa página, incluindo texto e imagens. O **CSS** é responsável pelo design, como cores e layout. Juntos, eles tornam nossa página _funcional_ e _atraente_.
+Este site foi desenvolvido com a ajuda do **Visual Studio Code** para codificação, **HTML5** para marcação de conteúdo, **CSS3** para estilização, **Git** para controle de versão e **GitHub** para hospedagem do projeto.
 
 ## Fontes consultadas 
 
