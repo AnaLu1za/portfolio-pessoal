@@ -71,9 +71,9 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
 **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
-**Bootstrap**: Redireciona o usuário para o site oficial do [bootstrap](https://getbootstrap.com/)
+**Bootstrap**: Redireciona o usuário para o site oficial do [**bootstrap**](https://getbootstrap.com/)
 
-**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [@mdo](https://twitter.com/mdo)
+**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [**@mdo**](https://twitter.com/mdo)
 
 ### Tecnologias utilizaveis
 
@@ -81,7 +81,7 @@ Utilizamos o **HTML** para estruturar nossa página, incluindo texto e imagens. 
 
 ## Fontes consultadas 
 
-Foram usadas o [bootstrap](https://getbootstrap.com/) para a estrutura inicial do site e o [chat gpt](https://chat.openai.com/) para o melhoramento de textos e informações
+Foram usadas o [**bootstrap**](https://getbootstrap.com/) para a estrutura inicial do site e o [**chat gpt**](https://chat.openai.com/) para o melhoramento de textos e informações
 
 Também foi pedida a ajuda de nosso porfessor de programação web **_Leonardo rocha_**
 
@@ -94,8 +94,8 @@ https://leonardorocha.eti.br/
 
 ## Autores
 
-[Danilo Felype Lima](https://github.com/DaniloFelype)
+[**_Danilo Felype Lima_**](https://github.com/DaniloFelype)
 
-[Samuel Camargo de Farias](https://github.com/SamuelCmdeFarias)
+[**_Samuel Camargo de Farias_**](https://github.com/SamuelCmdeFarias)
 
-[Leonardo Fernando Freire Gomes de Souza](https://github.com/ashuro-ryuki)
+[**_Leonardo Fernando Freire Gomes de Souza_**](https://github.com/ashuro-ryuki)
