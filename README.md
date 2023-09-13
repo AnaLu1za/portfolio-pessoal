@@ -94,8 +94,8 @@ https://leonardorocha.eti.br/
 
 ## Autores
 
-**_Danilo Felype Lima_**
+[Danilo Felype Lima](https://github.com/DaniloFelype)
 
-**_Samuel Camargo de Farias_**
+[Samuel Camargo de Farias](https://github.com/SamuelCmdeFarias)
 
-**_Leonardo Fernando Freire Gomes de Souza_**
+[Leonardo Fernando Freire Gomes de Souza](https://github.com/ashuro-ryuki)
